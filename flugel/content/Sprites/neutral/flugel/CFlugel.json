@@ -1,0 +1,228 @@
+{
+    "basepath" : "neutral/flugel/CFlugel/",
+
+    "sequences" :
+    [
+        {
+            "group" : 0,
+            "frames" :
+            [
+                "CFlugel09.png",
+                "CFlugel10.png",
+                "CFlugel11.png",
+                "CFlugel12.png",
+                "CFlugel13.png",
+                "CFlugel14.png",
+                "CFlugel15.png"
+            ]
+        },
+        {
+            "group" : 1,
+            "frames" :
+            [
+                "CFlugel41.png",
+                "CFlugel42.png",
+                "CFlugel43.png",
+                "CFlugel44.png",
+                "CFlugel45.png",
+                "CFlugel45.png",
+                "CFlugel45.png",
+                "CFlugel45.png",
+                "CFlugel44.png",
+                "CFlugel43.png",
+                "CFlugel42.png",
+                "CFlugel41.png"
+            ]
+        },
+        {
+            "group" : 2,
+            "frames" :
+            [
+                "CFlugel01.png",
+                "CFlugel02.png",
+                "CFlugel03.png",
+                "CFlugel04.png",
+                "CFlugel05.png",
+                "CFlugel05.png",
+                "CFlugel04.png",
+                "CFlugel03.png",
+                "CFlugel02.png",
+                "CFlugel01.png"
+            ]
+        },
+        {
+            "group" : 3,
+            "frames" :
+            [
+                "CFlugel24.png",
+                "CFlugel25.png",
+                "CFlugel26.png",
+                "CFlugel27.png",
+                "CFlugel28.png",
+                "CFlugel29.png"
+            ]
+        },
+        {
+            "group" : 4,
+            "frames" :
+            [
+                "CFlugel36.png",
+                "CFlugel37.png",
+                "CFlugel38.png",
+                "CFlugel39.png",
+                "CFlugel39.png",
+                "CFlugel39.png",
+                "CFlugel39.png",
+                "CFlugel38.png",
+                "CFlugel37.png",
+                "CFlugel36.png"
+            ]
+        },
+        {
+            "group" : 5,
+            "frames" :
+            [
+                "CFlugel24.png",
+                "CFlugel25.png",
+                "CFlugel30.png",
+                "CFlugel31.png",
+                "CFlugel32.png",
+                "CFlugel33.png",
+                "CFlugel34.png",
+                "CFlugel35.png"
+            ]
+        },
+        {
+            "group" : 7,
+            "frames" :
+            [
+                "CFlugel20.png",
+                "CFlugel21.png"
+            ]
+        },
+        {
+            "group" : 8,
+            "frames" :
+            [
+                "CFlugel21.png",
+                "CFlugel20.png"
+            ]
+        },
+        {
+            "group" : 11,
+            "frames" :
+            [
+                "CFlugel58.png",
+                "CFlugel59.png",
+                "CFlugel60.png",
+                "CFlugel61.png",
+                "CFlugel62.png",
+                "CFlugel63.png",
+                "CFlugel64.png",
+                "CFlugel65.png",
+                "CFlugel66.png"
+            ]
+        },
+        {
+            "group" : 12,
+            "frames" :
+            [
+                "CFlugel47.png",
+                "CFlugel48.png",
+                "CFlugel49.png",
+                "CFlugel50.png",
+                "CFlugel51.png",
+                "CFlugel52.png",
+                "CFlugel53.png",
+                "CFlugel54.png",
+                "CFlugel55.png"
+            ]
+        },        
+        {
+            "group" : 13,
+            "frames" :
+            [
+                "CFlugel69.png",
+                "CFlugel70.png",
+                "CFlugel71.png",
+                "CFlugel72.png",
+                "CFlugel73.png",
+                "CFlugel74.png",
+                "CFlugel75.png",
+                "CFlugel76.png",
+                "CFlugel77.png"
+            ]
+        },
+        {
+            "group" : 20,
+            "frames" :
+            [
+                "CFlugel07.png",
+                "CFlugel08.png"
+            ]
+        },
+        {
+            "group" : 21,
+            "frames" :
+            [
+                "CFlugel17.png",
+                "CFlugel18.png",
+                "CFlugel19.png"
+            ]
+        },
+        {
+            "group" : 17,
+            "frames" :
+            [
+                "CFlugel79.png",
+                "CFlugel80.png",
+                "CFlugel81.png",
+                "CFlugel82.png",
+                "CFlugel83.png",
+                "CFlugel84.png",
+                "CFlugel85.png",
+                "CFlugel86.png",
+                "CFlugel82.png",
+                "CFlugel81.png",
+                "CFlugel80.png",
+                "CFlugel79.png"
+            ]
+        },
+        {
+            "group" : 18,
+            "frames" :
+            [
+                "CFlugel79.png",
+                "CFlugel80.png",
+                "CFlugel81.png",
+                "CFlugel82.png",
+                "CFlugel83.png",
+                "CFlugel84.png",
+                "CFlugel85.png",
+                "CFlugel86.png",
+                "CFlugel82.png",
+                "CFlugel81.png",
+                "CFlugel80.png",
+                "CFlugel79.png"
+            ]
+        },
+        {
+            "group" : 19,
+            "frames" :
+            [
+                "CFlugel79.png",
+                "CFlugel80.png",
+                "CFlugel81.png",
+                "CFlugel82.png",
+                "CFlugel83.png",
+                "CFlugel84.png",
+                "CFlugel85.png",
+                "CFlugel86.png",
+                "CFlugel82.png",
+                "CFlugel81.png",
+                "CFlugel80.png",
+                "CFlugel79.png"
+            ]
+        }
+    ]
+}

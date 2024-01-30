@@ -1,0 +1,18 @@
+{
+	"name" : "Flugels - New Neutral Creature",
+	"description" : "A new neutral creature based on No Game No Life's Flugel race. Also my first H3 creature ever. Credit for the model goes to codealdnoah.",
+	"author" : "Fire Paladin",
+	"contact" : "amurgul@protonmail.com",
+	"version" : "0.9.0",
+	"modType" : "Creatures",
+
+	"creatures" :
+	[
+		"creatures/neutral/flugel/flugel"
+	],
+
+	"objects" :
+    [ 
+    	"dwellings/neutral/flugel/flugel_dwell"
+    ]
+}

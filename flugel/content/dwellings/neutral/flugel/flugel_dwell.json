@@ -1,0 +1,24 @@
+{
+	"core:creatureGeneratorCommon" : 
+    {
+		"types" : 
+        {
+			"fpFlugelDwell" :
+             {
+				"name" : "Celestial Library",
+				"creatures" : [[ "flugel" ]],
+				"sounds": {
+					"ambient": ["LOOPSTAR"]
+				},
+				"templates" : 
+                {
+					"default" : 
+                    {
+						"animation" : "neutral/flugel/AVGLibFlg.def",
+						"mask" : [ "VVV", "VVV", "VBA" ]
+					}
+				}
+             }
+		}	
+	}
+}
